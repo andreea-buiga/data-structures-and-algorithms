@@ -4,7 +4,7 @@
  <ul>
    <li>🌸 algorithm analysis</li>
    <li>🌸 iterator</li>
-   <li>🌸 hashin</li>
+   <li>🌸 hashing</li>
    <li>🌸 trees</li>
    <li>🌸 sorting algorithms</li>
  </ul>
