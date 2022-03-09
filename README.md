@@ -9,4 +9,4 @@
    <li>🌸 sorting algorithms</li>
  </ul>
 
-<a href="https://arthur486.wordpress.com/teaching/">📌 course page</a>
+<a href="http://www.cs.ubbcluj.ro/~marianzsu/DSA.html">📌 course page</a>
