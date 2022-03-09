@@ -1,0 +1,3 @@
+D:/u n i/computer science/second semester/data structures and algorithms/lab/hw 3 - list on array/set/cmake-build-debug/CMakeFiles/set.dir
+D:/u n i/computer science/second semester/data structures and algorithms/lab/hw 3 - list on array/set/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/u n i/computer science/second semester/data structures and algorithms/lab/hw 3 - list on array/set/cmake-build-debug/CMakeFiles/rebuild_cache.dir

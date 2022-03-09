@@ -1,0 +1,3 @@
+D:/u n i/computer science/second semester/dsa/bag/out/build/x64-Debug/CMakeFiles/bag.dir
+D:/u n i/computer science/second semester/dsa/bag/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/u n i/computer science/second semester/dsa/bag/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/andre/Documents/GitHub/data-structures-and-algorithms/lab/hw 1 - dynamic array/bag/cmake-build-debug/CMakeFiles/bag.dir
+C:/Users/andre/Documents/GitHub/data-structures-and-algorithms/lab/hw 1 - dynamic array/bag/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/andre/Documents/GitHub/data-structures-and-algorithms/lab/hw 1 - dynamic array/bag/cmake-build-debug/CMakeFiles/rebuild_cache.dir

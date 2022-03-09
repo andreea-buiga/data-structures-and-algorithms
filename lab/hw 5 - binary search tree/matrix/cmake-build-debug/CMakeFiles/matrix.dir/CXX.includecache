@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/u n i/computer science/second semester/data structures and algorithms/lab/hw 5 - binary search tree/matrix/Matrix.cpp
+Matrix.h
+D:/u n i/computer science/second semester/data structures and algorithms/lab/hw 5 - binary search tree/matrix/Matrix.h
+exception
+-
+
+D:/u n i/computer science/second semester/data structures and algorithms/lab/hw 5 - binary search tree/matrix/Matrix.h
+
